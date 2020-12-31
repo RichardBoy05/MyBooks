@@ -25,11 +25,33 @@ Infine, il pulsante "Mail" permette all'utente di proprorre dei suggerimenti opp
 
 2) **Inserimento libro**: 
 
-Qui l'utente può eseguire tre operazioni: può aggiungere un libro (dopo aver compilato tutti i campi ed eventualmente selezionato un'immagine di copertina), può eliminarne uno oppure svuotare direttamnete tutta libreria. La schermata è piuttosto intuitiva e non necessita di particolari spiegazioni.
+Qui l'utente può eseguire tre operazioni: può aggiungere un libro (dopo aver compilato tutti i campi ed eventualmente selezionato un'immagine di copertina), può eliminarne
+uno oppure svuotare direttamnete tutta libreria. La schermata è piuttosto intuitiva e non necessita di particolari spiegazioni.
 
 
 
 ![Inserimento libro](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame2.png)
+
+
+3) **Schermata di ricerca**
+
+In questa finestra si presenta una tabella sul lato sinistro insieme a due pulsanti, mentre sul lato destro sono collocati i vari filtri di ricerca.
+In base ai filtri selezionati (che non potranno essere vuoti in tal caso), una volta premuto il tasto "Cerca!", appariranno nella tabella i libri che corrispondono alle carateristiche scelte (N.B.: se non dovessero comparire libri, significa che nessun libro inserito soddisfa la ricerca effettuata).
+Sono presenti altri due pulsanti: il pulsante "Vedi tutto!", quando premuto, mostrerà tutti i libri posseduti nella tabella sovrastante (essenzialmente, si tratta di una "scorciatia" per visualizzare tutti i libri con un unico clic).
+Infine, il tasto "Scopri di più" apirà na nuova finestra che mostrerù le informazioni in detaglio del libro selezionato nella tabella (**N.B.**: se nessun libro è selezionato o la riga della tabella selezionata è vuota al clic del pulsante, verrà restituito un messaggio di errore!).
+
+
+![Schermata di ricerca](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame3.png)
+
+
+
+4) **Ulteriori informazioni**
+
+Questa finestra mostrerà all'utente le caratteristiche detagliate del libro selezionato nela finestra di ricerca. Sarà anche mostrata l'imagine di copertina, qualora sia stat caricata, nello spazio apposito. È anche possibile modificare l'immagine di copertina "al volo" premendoci sopra.
+**Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarla all'interno della schermata. La dimensione consigliata affinché non sia malformata è un'immagine in 9/16, non più piccola di 150 x 263 (la cosa è ststa progettat per permettere all'utente di utilizzare, per comodità, un'immagine da telefono, che gnerlambet è in 9/16).
+
+
+![Ulteriori informazioni](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame4.png)
 
 
 ### Tecnologie utilizzate
