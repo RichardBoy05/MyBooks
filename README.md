@@ -3,7 +3,7 @@
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
 3. [Installazione](#installazione)
 4. [Releases](#releases)
-4. [Domande, suggerimenti e bug fixes](#domande,-suggerimenti-e-bug-fixes)
+4. [Domande, suggerimenti e bug fixes](#domande-suggerimenti-e-bug-fixes)
 
 ### Informazioni generali
 ***
