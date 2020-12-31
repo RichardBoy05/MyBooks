@@ -11,7 +11,7 @@ Il progetto è rivolto a chiunque ami la lettura e che desidi conservare i propr
 L'applicazione presenta quattro interfacce grafiche differenti:
 
 1) **Interfaccia principale**: 
-![Finestra principale](https://imgur.com/gallery/6roru5S)
+![Finestra principale](D:\richard\fotoritocchi\imgur)
 
 
 ### Tecnologie utilizzate
