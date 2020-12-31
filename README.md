@@ -1,6 +1,6 @@
 ## Indice
-1. [Informazioni generali](#informazioni generali)
-2. [Tecnologie utilizzate](#tecnologie utilizzate)
+1. [Informazioni generali](#informazioni-generali)
+2. [Tecnologie utilizzate](#tecnologie-utilizzate)
 3. [Installazione](#installazione)
 4. [FAQs](#faqs)
 
