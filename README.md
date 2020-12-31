@@ -2,7 +2,8 @@
 1. [Informazioni generali](#informazioni-generali)
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
 3. [Installazione](#installazione)
-4. [FAQs](#faqs)
+4. [Releases](#releases)
+4. [Domande, suggerimenti e bug fixes](#domande,-suggerimenti-e-bug-fixes)
 
 ### Informazioni generali
 ***
@@ -70,19 +71,13 @@ La procedura di installazione è semplice:
 **N.B.:** il pacchetto d'installazione può sembrare piuttosto pesante. Ciò deriva dal fatto che il Runtime Java è già incluso nel file *.exe*.
 La scelta è stata fatta per evitare di obbligarel'utente ad installare Jav manualmente, che si può rivelare scomodo per i non esperti.
 
-### FAQs
+### Releases
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+Lista delle varie *release* del programma.
+* Prima release, 31/12/2020, v 1.0.0
+
+### Domande, suggerimenti e bug fixes
+
+Per qualsiasi problema o richiesta contatattatemi presso la *mail ufficiale del programma*: mybooks.fixandbugs@gmail.com
+
+Spero cheil software vi posa essere utile! Ciaooo =)
