@@ -68,7 +68,7 @@ public class InsertElement {
 		}
 
 		if (this.comp.EDITIONTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Nฐ di edizione mancante!");
+			JOptionPane.showMessageDialog(null, "Nยฐ di edizione mancante!");
 			return false;
 		}
 
@@ -161,7 +161,7 @@ public class InsertElement {
 		try {
 			
 			if (Database.existISBN(this.comp.ISBNTF.getText())) {
-				JOptionPane.showMessageDialog(null, "ISBN giเ esistente!");
+				JOptionPane.showMessageDialog(null, "ISBN giร  esistente!");
 				return false;
 			}
 			
@@ -181,13 +181,13 @@ public class InsertElement {
 			boolean result = true;
 
 			String title = this.comp.TITLEBOOKTF.getText();
-			title = title.replaceAll("'", "ง");
+			title = title.replaceAll("'", "ยง");
 
 			String writer = this.comp.WRITERTF.getText();
-			writer = writer.replaceAll("'", "ง");
+			writer = writer.replaceAll("'", "ยง");
 
 			String editor = this.comp.EDITORTF.getText();
-			editor = editor.replaceAll("'", "ง");
+			editor = editor.replaceAll("'", "ยง");
 
 			int edition = 0;
 			int pages = 0;
@@ -209,7 +209,7 @@ public class InsertElement {
 				String printyearstring = this.comp.PRINTYEARTF.getText();
 				printyear = Integer.parseInt(printyearstring);
 
-				String prizestring = this.comp.PRIZETF.getText();
+				String prizestring = this.comp.PRIZETF.getText().replaceAll(",", ".");;
 				prize = Double.parseDouble(prizestring);
 
 			} catch (NumberFormatException e3) {
@@ -222,7 +222,7 @@ public class InsertElement {
 			String type = this.comp.TYPECB.getSelectedItem().toString();
 
 			String language = this.comp.LANGUAGETF.getText();
-			language = language.replaceAll("'", "ง");
+			language = language.replaceAll("'", "ยง");
 
 			String pagescode = "";
 
@@ -252,13 +252,13 @@ public class InsertElement {
 			}
 
 			String isbn = this.comp.ISBNTF.getText();
-			isbn = isbn.replaceAll("'", "ง");
+			isbn = isbn.replaceAll("'", "ยง");
 
 			String place = this.comp.PLACETF.getText();
-			place = place.replaceAll("'", "ง");
+			place = place.replaceAll("'", "ยง");
 
 			String plot = this.comp.PLOTTA.getText();
-			plot = plot.replaceAll("'", "ง");
+			plot = plot.replaceAll("'", "ยง");
 			
 
 			String coverIdentifier = this.comp.TITLEBOOKTF.getText() + "_" + this.comp.ISBNTF.getText();
