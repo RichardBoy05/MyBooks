@@ -11,7 +11,7 @@ Il progetto è rivolto a chiunque ami la lettura e che desidi conservare i propr
 L'applicazione presenta quattro interfacce grafiche differenti:
 
 1) **Interfaccia principale**: 
-![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/bookshelf.png)
+![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
 
 
 ### Tecnologie utilizzate
