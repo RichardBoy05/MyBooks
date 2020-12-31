@@ -7,13 +7,15 @@
 ### Informazioni generali
 ***
 "MyBooks" è un'applicazione per gestire la tua libreria personale ed eseguire ricerche specifiche in base ai dati inseriti e ai filtri abilitati.
-Il progetto è rivolto a chiunque ami la lettura e che desidi conservare i propri volumi con ordine.
+Il progetto è rivolto a chiunque ami la lettura e che desideri conservare i propri volumi con ordine.
 L'applicazione presenta quattro interfacce grafiche differenti:
 
 1) **Interfaccia principale**: 
 
-Questa schermata permette all'utente di scegliere se inserire un nuovo libro oppure effetturae una ricerca tra quelli già inseriti. In basso sono collocati tre pulsanti: il pulsante informazione aprirà il file di informazioni dell'alpplicazione (quello che stai leggendo adesso), il secondo da sinistra rimanda l'utente al collegamneto su GitHub.
-Infine, il pulsante "Mail" permette all'utente di proprorre consigli, suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
+Questa schermata permette all'utente di scegliere se inserire un nuovo libro oppure effettuare una ricerca tra quelli già inseriti.
+In basso sono collocati altri tre pulsanti: il pulsante "About" (col simbolo "i") aprirà il file di informazioni dell'applicazione (quello che stai leggendo adesso =)).
+Il secondo da sinistra (col simbolo del gatto) rimanda l'utente al collegamento su GitHub.
+Infine, il pulsante "Mail" permette all'utente di proprorre dei suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
 
 
 ![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
