@@ -43,47 +43,47 @@ public class DataSearch implements ActionListener {
 		}
 
 		if (this.butt.TITLECHB.isSelected() && this.butt.TITLETF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (titolo)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (titolo)");
 			return;
 		}
 
 		if (this.butt.WRITERCHB.isSelected() && this.butt.WRITERTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (autore)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (autore)");
 			return;
 		}
 
 		if (this.butt.EDITORCHB.isSelected() && this.butt.EDITORTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (casa editrice)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (casa editrice)");
 			return;
 		}
 
 		if (this.butt.EDITIONCHB.isSelected() && this.butt.EDITIONTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (edizione)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (edizione)");
 			return;
 		}
 
 		if (this.butt.LANGUAGECHB.isSelected() && this.butt.LANGUAGETF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (lingua)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (lingua)");
 			return;
 		}
 
 		if (this.butt.PRINTYEARCHB.isSelected() && this.butt.PRINTYEARTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (anno di stampa)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (anno di stampa)");
 			return;
 		}
 
 		if (this.butt.PRIZECHB.isSelected() && this.butt.PRIZETF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (prezzo)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (prezzo)");
 			return;
 		}
 
 		if (this.butt.ISBNCHB.isSelected() && this.butt.ISBNTF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (isbn)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (isbn)");
 			return;
 		}
 
 		if (this.butt.PLACECHB.isSelected() && this.butt.PLACETF.getText().isEmpty()) {
-			JOptionPane.showMessageDialog(null, "Un campo selezionato non può essere vuoto (allocazione)");
+			JOptionPane.showMessageDialog(null, "Un campo selezionato non puÃ² essere vuoto (allocazione)");
 			return;
 		}
 
@@ -127,23 +127,23 @@ public class DataSearch implements ActionListener {
 		String place = "IS NOT NULL";
 
 		if (this.butt.TITLECHB.isSelected()) {
-			title = "= '" + this.butt.TITLETF.getText().replaceAll("'", "§") + "'";
+			title = "= '" + this.butt.TITLETF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.WRITERCHB.isSelected()) {
-			writer = "= '" + this.butt.WRITERTF.getText().replaceAll("'", "§") + "'";
+			writer = "= '" + this.butt.WRITERTF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.EDITORCHB.isSelected()) {
-			editor = "= '" + this.butt.EDITORTF.getText().replaceAll("'", "§") + "'";
+			editor = "= '" + this.butt.EDITORTF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.EDITIONCHB.isSelected()) {
-			edition = "= '" + this.butt.EDITIONTF.getText().replaceAll("'", "§") + "'";
+			edition = "= '" + this.butt.EDITIONTF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.TYPECHB.isSelected()) {
-			type = "= '" + this.butt.TYPECB.getSelectedItem().toString().replaceAll("'", "§") + "'";
+			type = "= '" + this.butt.TYPECB.getSelectedItem().toString().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.PAGESCHB.isSelected()) {
@@ -175,23 +175,23 @@ public class DataSearch implements ActionListener {
 		}
 
 		if (this.butt.LANGUAGECHB.isSelected()) {
-			language = "= '" + this.butt.LANGUAGETF.getText().replaceAll("'", "§") + "'";
+			language = "= '" + this.butt.LANGUAGETF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.PRINTYEARCHB.isSelected()) {
-			printyear = "= '" + this.butt.PRINTYEARTF.getText().replaceAll("'", "§") + "'";
+			printyear = "= '" + this.butt.PRINTYEARTF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.ISBNCHB.isSelected()) {
-			isbn = "= '" + this.butt.ISBNTF.getText().replaceAll("'", "§") + "'";
+			isbn = "= '" + this.butt.ISBNTF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		if (this.butt.PRIZECHB.isSelected()) {
-			prize = "= '" + this.butt.PRIZETF.getText().replaceAll("'", "§") + "'";
+			prize = "= '" + this.butt.PRIZETF.getText().replaceAll(",", ".") + "'";
 		}
 
 		if (this.butt.PLACECHB.isSelected()) {
-			place = "= '" + this.butt.PLACETF.getText().replaceAll("'", "§") + "'";
+			place = "= '" + this.butt.PLACETF.getText().replaceAll("'", "Â§") + "'";
 		}
 
 		ArrayList<Integer> id = new ArrayList<Integer>();
