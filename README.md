@@ -1,7 +1,7 @@
 ## Indice
-1. [Informazioni generali](#general-info)
-2. [Tecnologie utilizzate](#technologies)
-3. [Installazione](#installation)
+1. [Informazioni generali](#informazioni generali)
+2. [Tecnologie utilizzate](#tecnologie utilizzate)
+3. [Installazione](#installazione)
 4. [FAQs](#faqs)
 
 ### Informazioni generali
@@ -11,7 +11,7 @@ Il progetto è rivolto a chiunque ami la lettura e che desidi conservare i propr
 L'applicazione presenta quattro interfacce grafiche differenti:
 
 1) **Interfaccia principale**: 
-![Finestra principale](https://imgur.com/a/6roru5S)
+![Finestra principale](https://imgur.com/gallery/6roru5S)
 
 
 ### Tecnologie utilizzate
