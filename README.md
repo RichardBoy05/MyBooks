@@ -11,6 +11,11 @@ Il progetto è rivolto a chiunque ami la lettura e che desidi conservare i propr
 L'applicazione presenta quattro interfacce grafiche differenti:
 
 1) **Interfaccia principale**: 
+
+Questa schermata permette all'utente di scegliere se inserire un nuovo libro oppure effetturae una ricerca tra quelli già inseriti. In basso sono collocati tre pulsanti: il pulsante informazione aprirà il file di informazioni dell'alpplicazione (quello che stai leggendo adesso), il secondo da sinistra rimanda l'utente al collegamneto su GitHub.
+Infine, il pulsante "Mail" permette all'utente di proprorre consigli, suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
+
+
 ![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
 
 
