@@ -18,7 +18,12 @@ Il secondo da sinistra (col simbolo del gatto) rimanda l'utente al collegamento 
 Infine, il pulsante "Mail" permette all'utente di proprorre dei suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
 
 
+
 ![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
+
+2) **Inserimento libro**: 
+
+Qui l'utente può eseguire tre operazioni: può aggiungere un libro (dopo aver compilato tutti i campi ed eventualmnete selezionato un'imagine di copertina)
 
 
 ### Tecnologie utilizzate
