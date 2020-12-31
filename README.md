@@ -9,9 +9,9 @@
 ### Informazioni generali
 ***
 **"MyBooks"** è un'applicazione *open-source* per gestire la propria libreria personale: è possibile registrare e salvare i propri libri all'interno del programma
-e, successivamnete, eseguire ricerche specifiche in base ai filtri abilitati.
-Il progetto è rivolto a chiunque ami la lettura e che desideri conservare i propri volumi con ordine.
-L'applicazione presenta quattro interfacce grafiche differenti:
+e, successivamente, eseguire ricerche specifiche in base ai filtri abilitati.
+Il progetto è rivolto a chiunque ami la lettura e desideri conservare i propri volumi con ordine.
+L'applicazione presenta **quattro interfacce grafiche** differenti:
 
 1) **Interfaccia principale**: 
 
