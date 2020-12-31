@@ -60,22 +60,16 @@ Ecco le tecnologie adoperate nello sviluppo dell'applicazione:
 * [Java Development Kit](https://www.oracle.com/it/java/technologies/javase-jdk15-doc-downloads.html): Version 15.0.1 
 * [Sqlite 3](https://www.sqlite.org/download.html): Version 3.34.0
 * [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc/releases): 3.32.3.2
+
 ### Installazione
 ***
-A little intro about the installation.
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-### Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+La procedura di installazione è semplice:
+* Scaricare l'installer nella sezione *Release* della repository.
+* Eseguire il file e seguire le istruzioni per l'installazione guidata.
+
+**N.B.:** il pacchetto d'installazione può sembrare piuttosto pesante. Ciò deriva dal fatto che il Runtime Java è già incluso nel file *.exe*.
+La scelta è stata fatta per evitare di obbligarel'utente ad installare Jav manualmente, che si può rivelare scomodo per i non esperti.
+
 ### FAQs
 ***
 A list of frequently asked questions
