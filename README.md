@@ -21,9 +21,15 @@ Infine, il pulsante "Mail" permette all'utente di proprorre dei suggerimenti opp
 
 ![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
 
+
+
 2) **Inserimento libro**: 
 
-Qui l'utente può eseguire tre operazioni: può aggiungere un libro (dopo aver compilato tutti i campi ed eventualmnete selezionato un'imagine di copertina)
+Qui l'utente può eseguire tre operazioni: può aggiungere un libro (dopo aver compilato tutti i campi ed eventualmente selezionato un'immagine di copertina), può eliminarne uno oppure svuotare direttamnete tutta libreria. La schermata è piuttosto intuitiva e non necessita di particolari spiegazioni.
+
+
+
+![Inserimento libro](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame2.png)
 
 
 ### Tecnologie utilizzate
