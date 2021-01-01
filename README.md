@@ -72,7 +72,7 @@ La procedura di installazione è semplice:
 * Eseguire il file e seguire le istruzioni per l'installazione guidata.
 
 **N.B.:** il pacchetto d'installazione può sembrare piuttosto pesante. Ciò deriva dal fatto che il Runtime Java è già incluso nel file *.exe*.
-La scelta è stata fatta per evitare di obbligare l'utente ad installare *Java* manualmente, che si può rivelare scomodo per i non esperti.
+La scelta è stata fatta per evitare di obbligare l'utente ad installare *Java*, che si può rivelare scomodo per i meno esperti.
 
 ### Releases
 ***
