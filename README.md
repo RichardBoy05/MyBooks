@@ -16,9 +16,9 @@ L'applicazione presenta **quattro interfacce grafiche** differenti:
 1) **Interfaccia principale**: 
 
 Questa schermata permette all'utente di scegliere se inserire un nuovo libro oppure effettuare una ricerca tra quelli già inseriti (utilizando i due tasti principali A e B).
-In basso sono collocati altri tre pulsanti (C, D, E): il pulsante "About" (C) aprirà il file di informazioni dell'applicazione (quello che stai leggendo in questo momento).
-Il pulsante "GitHub" (D) rimanda l'utente al collegamento sul sito di GitHub.
-Infine, il pulsante "Mail" (E) permette all'utente di proprorre dei suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
+In basso sono collocati altri tre pulsanti (C, D, E): il pulsante "*About*" (C) aprirà il file di informazioni dell'applicazione (quello che stai leggendo in questo momento).
+Il pulsante "*GitHub*" (D) rimanda l'utente al collegamento sul sito di GitHub.
+Infine, il pulsante "*Mail*" (E) permette all'utente di proprorre dei suggerimenti oppure segnalare un bug presso la mail del progetto mybooks.fixandbugs@gmail.com
 
 
 
@@ -39,9 +39,9 @@ può eliminarne uno, oppure può svuotare direttamnete tutta libreria. La scherm
 3) **Schermata di ricerca**
 
 In questa finestra si trova una tabella sul lato sinistro insieme a due pulsanti, mentre sul lato destro sono collocati vari filtri di ricerca.
-In base ai filtri selezionati (che non potranno essere vuoti in tal caso), una volta premuto il tasto "Cerca!", appariranno nella tabella i libri che corrispondono alle caratteristiche scelte (**N.B.**: se non dovessero comparire libri, significa che nessun volume inserito soddisfa la ricerca effettuata).
-Sono presenti altri due pulsanti: il pulsante "Vedi tutto!", quando premuto, mostrerà tutti i libri posseduti nella tabella sovrastante (essenzialmente, si tratta di una "scorciatia" per visualizzare tutti i libri con un unico clic).
-Infine, il tasto "Scopri di più" apirà una nuova finestra che mostrerà le informazioni dettagliate del libro selezionato nella tabella (**N.B.**: se nessun libro è selezionato o la riga della tabella selezionata è vuota al clic del pulsante, verrà restituito un messaggio di errore!).
+In base ai filtri selezionati (che non potranno essere vuoti in tal caso), una volta premuto il tasto "*Cerca!*", appariranno nella tabella i libri che corrispondono alle caratteristiche scelte (**N.B.**: se non dovessero comparire libri, significa che nessun volume inserito soddisfa la ricerca effettuata).
+Sono presenti altri due pulsanti: il pulsante "*Vedi tutto!*", quando premuto, mostrerà tutti i libri posseduti nella tabella sovrastante (essenzialmente, si tratta di una "scorciatia" per visualizzare tutti i libri con un unico clic).
+Infine, il tasto "*Scopri di più*" apirà una nuova finestra che mostrerà le informazioni dettagliate del libro selezionato nella tabella (**N.B.**: se nessun libro è selezionato o la riga della tabella selezionata è vuota al clic del pulsante, verrà restituito un messaggio di errore!).
 
 
 ![Schermata di ricerca](https://github.com/RichardBoy05/MyBooks/blob/main/res/window3.png)
@@ -52,7 +52,7 @@ Infine, il tasto "Scopri di più" apirà una nuova finestra che mostrerà le inf
 
 Questa finestra mostrerà all'utente le caratteristiche dettagliate del libro selezionato nela finestra di ricerca.
 Sarà anche mostrata l'immagine di copertina, qualora sia stata caricata, nello spazio apposito. È anche possibile modificare l'immagine"al volo" premendoci sopra, qualora quella inserita precedentemente non ci soddisfi appieno.
-**Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarsi all'interno della schermata. La dimensione consigliata affinché non vengano variate le proporzioni inziali è di 9/16, non più piccola di 150 x 263 (la cosa è stata progettata per permettere all'utente di utilizzare, per comodità, un'immagine da telefono, che generlamente corrisponde alle condizioni citate).
+**Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarsi all'interno della schermata. La dimensione consigliata affinché non vengano variate le proporzioni inziali è di **9/16**, non più piccola di **150 x 263** (la cosa è stata progettata per permettere all'utente di utilizzare, per comodità, un'immagine da telefono, che generlamente corrisponde alle condizioni citate).
 
 
 ![Ulteriori informazioni](https://github.com/RichardBoy05/MyBooks/blob/main/res/window4.png)
