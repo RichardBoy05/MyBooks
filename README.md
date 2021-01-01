@@ -29,7 +29,7 @@ Infine, il pulsante "*Mail*" (E) permette all'utente di proprorre dei suggerimen
 2) **Inserimento libro**: 
 
 Qui l'utente può eseguire tre operazioni: può scegliere di aggiungere un libro (dopo aver compilato tutti i campi ed eventualmente selezionato un'immagine di copertina),
-può eliminarne uno, oppure può svuotare direttamnete tutta libreria. La schermata è piuttosto intuitiva e non necessita di particolari spiegazioni.
+può eliminarne uno, oppure può svuotare direttamente tutta libreria. La schermata è piuttosto intuitiva e non necessita di particolari spiegazioni.
 
 
 
