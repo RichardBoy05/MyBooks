@@ -89,7 +89,7 @@ Il bug sarà corretto nella prossima versione (*1.0.1*).
 
 ### Licenza
 
-GNU General Public License 3.0
+[GNU General Public License 3.0](https://github.com/RichardBoy05/MyBooks/blob/main/LICENSE)
 
 
 ### Domande, suggerimenti e bug fixes
