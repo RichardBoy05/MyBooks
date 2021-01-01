@@ -40,8 +40,8 @@ può eliminarne uno, oppure può svuotare direttamente tutta libreria. La scherm
 
 In questa finestra si trova una tabella sul lato sinistro insieme a due pulsanti, mentre sul lato destro sono collocati vari filtri di ricerca.
 In base ai filtri selezionati (che non potranno essere vuoti in tal caso), una volta premuto il tasto "*Cerca!*", appariranno nella tabella i libri che corrispondono alle caratteristiche scelte (**N.B.**: se non dovessero comparire libri, significa che nessun volume inserito soddisfa la ricerca effettuata).
-Sono presenti altri due pulsanti: il pulsante "*Vedi tutto!*", quando premuto, mostrerà tutti i libri posseduti nella tabella sovrastante (essenzialmente, si tratta di una "scorciatia" per visualizzare tutti i libri con un unico clic).
-Infine, il tasto "*Scopri di più*" apirà una nuova finestra che mostrerà le informazioni dettagliate del libro selezionato nella tabella (**N.B.**: se nessun libro è selezionato o la riga della tabella selezionata è vuota al clic del pulsante, verrà restituito un messaggio di errore!).
+Sono presenti altri due pulsanti: il pulsante "*Vedi tutto!*", quando premuto, mostrerà tutti i libri posseduti nella tabella sovrastante (essenzialmente, si tratta di una "scorciatoia" per visualizzare tutti i libri con un unico clic).
+Infine, il tasto "*Scopri di più*" apirà una nuova finestra che mostrerà le informazioni dettagliate del libro selezionato nella tabella-
 
 
 ![Schermata di ricerca](https://github.com/RichardBoy05/MyBooks/blob/main/res/window3.png)
