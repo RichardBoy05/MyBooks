@@ -76,7 +76,7 @@ La scelta è stata fatta per evitare di obbligarel'utente ad installare Jav manu
 ### Releases
 ***
 Lista delle varie *release* del programma.
-* Prima release, 31/12/2020, v 1.0.0
+* Prima release, *data da definirsi*, v 1.0.0
 
 ### Domande, suggerimenti e bug fixes
 
