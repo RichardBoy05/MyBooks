@@ -50,16 +50,16 @@ public class ViewMore implements ActionListener {
 		}
 
 		if (this.comp.MODEL.getValueAt(idr, 0) == null) {
-			JOptionPane.showMessageDialog(null, "La riga selezionata ่ vuota!");
+			JOptionPane.showMessageDialog(null, "La riga selezionata รจ vuota!");
 			return;
 		}
 
-		String title = this.comp.MODEL.getValueAt(idr, 0).toString().replaceAll("'", "ง");
-		String writer = this.comp.MODEL.getValueAt(idr, 1).toString().replaceAll("'", "ง");
-		String editor = this.comp.MODEL.getValueAt(idr, 2).toString().replaceAll("'", "ง");
-		String type = this.comp.MODEL.getValueAt(idr, 3).toString().replaceAll("'", "ง");
+		String title = this.comp.MODEL.getValueAt(idr, 0).toString().replaceAll("'", "ยง");
+		String writer = this.comp.MODEL.getValueAt(idr, 1).toString().replaceAll("'", "ยง");
+		String editor = this.comp.MODEL.getValueAt(idr, 2).toString().replaceAll("'", "ยง");
+		String type = this.comp.MODEL.getValueAt(idr, 3).toString().replaceAll("'", "ยง");
 
-		File temp = new File("./temp.txt"); //temporary file for passing the values to the InfoBookGui
+		File temp = new File("./database/temp.txt"); //temporary file for passing the values to the InfoBookGui
 
 		if (!temp.exists()) {
 
