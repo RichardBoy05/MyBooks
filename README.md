@@ -5,11 +5,12 @@
 3. [Installazione](#installazione)
 4. [Releases](#releases)
 5. [Bugs](#bugs)
-6. [Domande, suggerimenti e bug fixes](#domande-suggerimenti-e-bug-fixes)
+6. [Licenza](#licenza)
+7. [Domande, suggerimenti e bug fixes](#domande-suggerimenti-e-bug-fixes)
 
 ### Informazioni generali
 ***
-**"MyBooks"** è un'applicazione *open-source* per gestire la propria libreria personale: è possibile registrare e salvare i propri libri all'interno del programma
+**"MyBooks"** è un'applicazione per gestire la propria libreria personale: è possibile registrare e salvare i propri libri all'interno del programma
 e, successivamente, eseguire ricerche specifiche in base ai filtri abilitati.
 Il progetto è rivolto a chiunque ami la lettura e desideri conservare i propri volumi con ordine.
 L'applicazione presenta **quattro interfacce grafiche** differenti:
@@ -85,6 +86,11 @@ Lista delle varie *release* del programma.
 Momentaneamente è **caldamente sconsigliato** inserire i caratteri a seguire come titolo di un libro.   **\ / : * ? " < > |**  
 L'inserimento porterà il programma a non riuscire a riconoscere **l'immagine di copertina** del suddetto libro.
 Il bug sarà corretto nella prossima versione (*1.0.1*).
+
+### Licenza
+
+GNU General Public License 3.0
+
 
 ### Domande, suggerimenti e bug fixes
 
