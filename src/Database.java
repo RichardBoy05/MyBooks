@@ -498,7 +498,7 @@ public class Database {
 		String type = "";
 
 		try {
-			File temp = new File("./temp.txt");
+			File temp = new File("./database/temp.txt");
 			FileReader reader = new FileReader(temp);
 			BufferedReader b = new BufferedReader(reader);
 
