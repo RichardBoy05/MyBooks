@@ -48,7 +48,7 @@ public class Database {
 		try {
 			Class.forName("org.sqlite.JDBC");
 
-			conn = DriverManager.getConnection("jdbc:sqlite:./MyBooksDB.db");
+			conn = DriverManager.getConnection("jdbc:sqlite:./database/MyBooksDB.db");
 
 		} catch (ClassNotFoundException | SQLException e) {
 			
@@ -207,16 +207,16 @@ public class Database {
 		ArrayList<String> records = new ArrayList<String>();
 
 		while (result.next()) {
-			records.add(result.getString(2).replaceAll("ง", "'"));
-			records.add(result.getString(3).replaceAll("ง", "'"));
-			records.add(result.getString(4).replaceAll("ง", "'"));
-			records.add(result.getString(5).replaceAll("ง", "'"));
-			records.add(result.getString(6).replaceAll("ง", "'"));
-			records.add(result.getString(7).replaceAll("ง", "'"));
-			records.add(result.getString(8).replaceAll("ง", "'"));
-			records.add(result.getString(9).replaceAll("ง", "'"));
-			records.add(result.getString(10).replaceAll("ง", "'"));
-			records.add(result.getString(11).replaceAll("ง", "'"));
+			records.add(result.getString(2).replaceAll("ยง", "'"));
+			records.add(result.getString(3).replaceAll("ยง", "'"));
+			records.add(result.getString(4).replaceAll("ยง", "'"));
+			records.add(result.getString(5).replaceAll("ยง", "'"));
+			records.add(result.getString(6).replaceAll("ยง", "'"));
+			records.add(result.getString(7).replaceAll("ยง", "'"));
+			records.add(result.getString(8).replaceAll("ยง", "'"));
+			records.add(result.getString(9).replaceAll("ยง", "'"));
+			records.add(result.getString(10).replaceAll("ยง", "'"));
+			records.add(result.getString(11).replaceAll("ยง", "'"));
 
 		}
 
