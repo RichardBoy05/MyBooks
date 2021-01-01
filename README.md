@@ -1,4 +1,4 @@
-# MyBooks: guida completa per l'utilizzo (da ultimare)
+# MyBooks: guida completa per l'utilizzo
 ## Indice
 1. [Informazioni generali](#informazioni-generali)
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
