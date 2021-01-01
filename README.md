@@ -83,6 +83,6 @@ Lista delle varie *release* del programma.
 
 Per qualsiasi problema o richiesta contatattatemi presso la *mail ufficiale del programma*: mybooks.fixandbugs@gmail.com
 
-Spero che vi divertiate con il programma =)
+Spero che vi divertiate =)
 
 Bye
