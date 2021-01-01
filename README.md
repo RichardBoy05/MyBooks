@@ -22,7 +22,7 @@ Infine, il pulsante "Mail" (E) permette all'utente di proprorre dei suggerimenti
 
 
 
-![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame.png)
+![Finestra principale](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame1.png)
 
 
 
@@ -33,7 +33,7 @@ uno oppure svuotare direttamnete tutta libreria. La schermata è piuttosto intui
 
 
 
-![Inserimento libro](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame.png)
+![Inserimento libro](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame2.png)
 
 
 3) **Schermata di ricerca**
@@ -44,7 +44,7 @@ Sono presenti altri due pulsanti: il pulsante "Vedi tutto!", quando premuto, mos
 Infine, il tasto "Scopri di più" apirà na nuova finestra che mostrerù le informazioni in detaglio del libro selezionato nella tabella (**N.B.**: se nessun libro è selezionato o la riga della tabella selezionata è vuota al clic del pulsante, verrà restituito un messaggio di errore!).
 
 
-![Schermata di ricerca](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame.png)
+![Schermata di ricerca](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame3.png)
 
 
 
@@ -54,7 +54,7 @@ Questa finestra mostrerà all'utente le caratteristiche detagliate del libro sel
 **Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarla all'interno della schermata. La dimensione consigliata affinché non sia malformata è un'immagine in 9/16, non più piccola di 150 x 263 (la cosa è ststa progettat per permettere all'utente di utilizzare, per comodità, un'immagine da telefono, che gnerlambet è in 9/16).
 
 
-![Ulteriori informazioni](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame.png)
+![Ulteriori informazioni](https://github.com/RichardBoy05/MyBooks/blob/main/res/frame4.png)
 
 
 ### Tecnologie utilizzate
