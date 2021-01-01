@@ -61,9 +61,9 @@ Sarà anche mostrata l'immagine di copertina, qualora sia stata caricata, nello 
 ### Tecnologie utilizzate
 ***
 Ecco le tecnologie adoperate nello sviluppo dell'applicazione:
-* [Java Development Kit](https://www.oracle.com/it/java/technologies/javase-jdk15-doc-downloads.html): Version 15.0.1 
-* [Sqlite 3](https://www.sqlite.org/download.html): Version 3.34.0
-* [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc/releases): 3.32.3.2
+* [Java Development Kit](https://www.oracle.com/it/java/technologies/javase-jdk15-doc-downloads.html): Versione 15.0.1 
+* [Sqlite 3](https://www.sqlite.org/download.html): Versione 3.34.0
+* [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc/releases): Versione 3.32.3.2
 
 ### Installazione
 ***
