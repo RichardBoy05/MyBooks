@@ -83,7 +83,7 @@ Lista delle varie *release* del programma.
 
 ### Bugs
 
-Momentaneamente è **caldamente sconsigliato** inserire i caratteri a seguire come titolo di un libro.   **\ / : * ? " < > |**    
+Momentaneamente è **caldamente sconsigliato** inserire i caratteri a seguire come **titolo** di un libro (in tutti gli altri campi non vi sono problemi).   **\ / : * ? " < > |**    
 L'inserimento porterà il programma a non riuscire a riconoscere **l'immagine di copertina** del suddetto libro.
 Il bug sarà corretto nella prossima versione (*1.0.1*).
 
