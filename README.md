@@ -50,9 +50,9 @@ Infine, il tasto "*Scopri di più*" apirà una nuova finestra che mostrerà le i
 
 4) **Ulteriori informazioni**
 
-Questa finestra mostrerà all'utente le caratteristiche dettagliate del libro selezionato nela finestra di ricerca.
-Sarà anche mostrata l'immagine di copertina, qualora sia stata caricata, nello spazio apposito. È anche possibile modificare l'immagine"al volo" premendoci sopra, qualora quella inserita precedentemente non ci soddisfi appieno.
-**Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarsi all'interno della schermata. La dimensione consigliata affinché non vengano variate le proporzioni inziali è di **9/16**, non più piccola di **150 x 263** (la cosa è stata progettata per permettere all'utente di utilizzare, per comodità, un'immagine da telefono, che generlamente corrisponde alle condizioni citate).
+Questa finestra mostrerà all'utente le caratteristiche dettagliate del libro selezionato nella finestra di ricerca.
+Sarà anche mostrata l'immagine di copertina, qualora sia stata caricata, nello spazio apposito. È anche possibile modificare l'immagine "al volo", qualora quella inserita precedentemente non ci soddisfi appieno.
+**Importante**: la dimensione dell'immagine di copertina verrà modificarla per adattarsi all'interno della schermata. La dimensione consigliata affinché non vengano variate le proporzioni iniziali è di **9/16**, non più piccola di **150 x 263 pixel** (la cosa è stata progettata per permettere all'utente di utilizzare, per comodità, un'immagine scattata da telefono, che generalmente corrisponde alle condizioni citate).
 
 
 ![Ulteriori informazioni](https://github.com/RichardBoy05/MyBooks/blob/main/res/window4.png)
