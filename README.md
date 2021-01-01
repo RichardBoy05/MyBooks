@@ -4,7 +4,8 @@
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
 3. [Installazione](#installazione)
 4. [Releases](#releases)
-4. [Domande, suggerimenti e bug fixes](#domande-suggerimenti-e-bug-fixes)
+5. [Bugs](#bugs)
+6. [Domande, suggerimenti e bug fixes](#domande-suggerimenti-e-bug-fixes)
 
 ### Informazioni generali
 ***
@@ -78,6 +79,12 @@ La scelta è stata fatta per evitare di obbligare l'utente ad installare *Java*,
 ***
 Lista delle varie *release* del programma.
 * Prima release, *coming soon*, v 1.0.0
+
+### Bugs
+
+Momentaneamente è **caldamente sconsigliato** inserire i caratteri a seguire come titolo di un libro.   **\ / : * ? " < > |**
+L'inserimento porterà il programma a non riuscire a riconoscere **l'immagine di copertina** del suddetto libro.
+Il bug sarà corretto nella prossima versione (*1.0.1*).
 
 ### Domande, suggerimenti e bug fixes
 
