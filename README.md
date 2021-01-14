@@ -79,6 +79,7 @@ La scelta è stata fatta per evitare di obbligare l'utente ad installare *Java*,
 ### Releases
 ***
 Lista delle varie *release* del programma.
+* Pre-release 0.1
 * Prima release, *coming soon*, v 1.0.0
 
 ### Bugs
