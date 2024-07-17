@@ -1,4 +1,8 @@
 # MyBooks: guida completa per l'utilizzo
+
+[![ita](https://img.shields.io/badge/lang-ita-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README-ENG.md)
+
 ## Indice
 1. [Informazioni generali](#informazioni-generali)
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
